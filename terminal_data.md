@@ -1,4 +1,4 @@
-# Table of Contents:
+# Table of Contents
 
 ## [Terminal Keywords](#terminal-keywords)
 
@@ -9015,7 +9015,8 @@ LockedInDemo?: False
 DisplayText:
 
     we got in the "swing of things" the past few days. thats what Rich keeps saying, he smells like a rancid tuna can. worst summer camp I've ever been o n. Date is August 27, 1968. 
-    we make sure someone always has a shovel for bashing anything that moves, and we always put someone on "camera duty" so they can open these big security doors with letters and numbers. ask Desmond the wizard how that works, I think he just types in the code thats on the door. Thats it
+    we make sure someone always has a shovel for bashing anything that moves, and we always put someone on "camera duty" so they can open these big security doors with letters and numbers. ask Desmond the wizard how that works, I think he just types in the code thats on the door
+. Thats it
     
     we sold some goods to the company today at 70% value. i got m y nerves chilled listening to the fuckng PYSCHOTIC soundfs behind the counter. No one else gave any. ?? 
     Cant ignore that! my flashlight didn't even go back there, the beam just went dark.
@@ -9419,7 +9420,8 @@ LockedInDemo?: False
 DisplayText:
 
     September 27, 1968
-    desmond wants me to writ e down what we figured out and keep my "nonsense to a minimum". So im going to put SO MUCH of my non sense. screw him. The new crew member is named Lucas and he is so confused and scared a ll the time, what a baby, at least he doesnt smell like a monster. its been so sunny even though its september, and these suits dont take it well
+    desmond wants me to writ e down what we figured out and keep my "nonsense to a minimum". So im going to put SO MUCH of my non sense. screw him. The new crew member is named Lucas and he is so confused and scared a ll the time, what a baby, at least he doesnt smell like a monster.
+ its been so sunny even though its september, and these suits dont take it well
     ok so desmond "traced the call" and found out theres a group of people somewhere else that pretends to call us from the company building. they are across the whole solar system !! why would they be so far away.
     
     Desmond says he doesnt know, but i think. What if there really is a big monster in the company building like the voice told me on the wlakie talkie? They trapped it, and we feed it to keep it tame. i just wanted a stupid job!!!!! 
