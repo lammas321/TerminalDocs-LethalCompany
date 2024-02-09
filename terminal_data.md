@@ -2,7 +2,6 @@
 
 ## [Terminal Keywords](#terminal-keywords)
 
-
 [Terminal Keyword: buy](#terminal-keyword-buy)
 
 [Terminal Keyword: pro flashlight](#terminal-keyword-pro-flashlight)
@@ -250,7 +249,6 @@
 [Terminal Keyword: purple suit](#terminal-keyword-purple-suit)
 
 ## [TerminalNodes](#terminal-nodes)
-
 
 [Terminal Node: #0](#terminal-node-0)
 
@@ -631,10 +629,15 @@
 # Terminal Keywords
 
 ## Terminal Keyword: `buy`
+
 IsVerb?: True
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (36):
 - 0:
   - Noun: [Terminal Keyword: pro flashlight](#terminal-keyword-pro-flashlight)
@@ -746,45 +749,75 @@ CompatibleNouns (36):
   - Result: [Terminal Node: #60](#terminal-node-60)
 
 ## Terminal Keyword: `pro flashlight`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `money`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `confirm`
+
 IsVerb?: True
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `deny`
+
 IsVerb?: True
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `help`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #13](#terminal-node-13)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `info`
+
 IsVerb?: True
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (46):
 - 0:
   - Noun: [Terminal Keyword: pro flashlight](#terminal-keyword-pro-flashlight)
@@ -926,87 +959,147 @@ CompatibleNouns (46):
   - Result: [Terminal Node: #104](#terminal-node-104)
 
 ## Terminal Keyword: `store`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #105](#terminal-node-105)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `survival kit`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `flashlight`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `lockpicker`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `mapper`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `shovel`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `jetpack`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `boombox`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `bestiary`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #106](#terminal-node-106)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `stun`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `reset credits`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #107](#terminal-node-107)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `view`
+
 IsVerb?: True
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (14):
 - 0:
   - Noun: [Terminal Keyword: first](#terminal-keyword-first)
@@ -1052,52 +1145,87 @@ CompatibleNouns (14):
   - Result: [Terminal Node: #121](#terminal-node-121)
 
 ## Terminal Keyword: `inside cam`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `moons`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #122](#terminal-node-122)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `vow`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `experimentation`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `assurance`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `offense`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `route`
+
 IsVerb?: True
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (10):
 - 0:
   - Noun: [Terminal Keyword: experimentation](#terminal-keyword-experimentation)
@@ -1131,688 +1259,1173 @@ CompatibleNouns (10):
   - Result: [Terminal Node: #131](#terminal-node-131)
 
 ## Terminal Keyword: `television`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `teleporter`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `rend`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `march`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `dine`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `titan`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `company`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: route](#terminal-keyword-route)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `walkie-talkie`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `spray paint`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `brackens`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `forest keeper`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `earth leviathan`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `lasso`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `spore lizards`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `snare fleas`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `eyeless dogs`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `hoarding bugs`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `bunker spiders`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `hygroderes`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `coil-heads`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `manticoils`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `baboon hawks`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `nutcracker`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `circuit bees`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `locusts`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `thumpers`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `jester`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: info](#terminal-keyword-info)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `decor`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #132](#terminal-node-132)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `upgrades`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #133](#terminal-node-133)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `tzp`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `green suit`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `hazard suit`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `pajama suit`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `cozy lights`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `sigurd`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #134](#terminal-node-134)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `signal`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `toilet`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `record`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `shower`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `table`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `romantic table`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `file cabinet`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `cupboard`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `bunkbeds`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `storage`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #135](#terminal-node-135)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `other`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #136](#terminal-node-136)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `scan`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #137](#terminal-node-137)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `b3`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `c1`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `c2`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `c7`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `d6`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `f2`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `h5`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `i1`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `j6`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `k9`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `l0`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `m6`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `m9`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `o5`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `p1`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `r2`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `r4`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `t2`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `u2`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `u9`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `v0`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `x8`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `y9`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `z3`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: True
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `first`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `smells`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `swing`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `shady`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `sound`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `goodbye`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `screams`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `golden`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `idea`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `nonsense`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `hiding`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `desmond`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `real`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: view](#terminal-keyword-view)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `zap gun`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `monitor`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `switch`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #138](#terminal-node-138)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `loud horn`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `extension ladder`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `inverse teleporter`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `jackolantern`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `radarr`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `eject`
+
 IsVerb?: False
+
 DefaultVerb: `null`
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: [Terminal Node: #139](#terminal-node-139)
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `welcome mat`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `goldfish`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `plushie pajama man`
+
 IsVerb?: False
+
 DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
 AccessTerminalObjects?: False
+
 SpecialKeywordResult: `null`
+
 CompatibleNouns (0):
 
 ## Terminal Keyword: `purple suit`
-IsVerb?: False
-DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
-AccessTerminalObjects?: False
-SpecialKeywordResult: `null`
-CompatibleNouns (0):
 
+IsVerb?: False
+
+DefaultVerb: [Terminal Keyword: buy](#terminal-keyword-buy)
+
+AccessTerminalObjects?: False
+
+SpecialKeywordResult: `null`
+
+CompatibleNouns (0):
 
 # Terminal Nodes
 
 ## Terminal Node: #0
+
 DisplayText:
 
     BG IG, A System-Act Ally
@@ -1827,37 +2440,52 @@ DisplayText:
     Current time is 8:03:32.15
     
     Please enter favorite animal: 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 8
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: True
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: [Terminal Node: #140](#terminal-node-140)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -1865,6 +2493,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #1
+
 DisplayText:
 
     Welcome to the FORTUNE-9 OS
@@ -1873,37 +2502,52 @@ DisplayText:
     Happy [currentDay].
     
     Type "Help" for a list of commands.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -1911,38 +2555,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #2
+
 DisplayText:
 
     You could not afford these items!
     Your balance is [playerCredits]. Total cost of these items is [totalCost].
+
 ClearPreviousText?: False
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -1950,38 +2610,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #3
+
 DisplayText:
 
     Unable to route the ship currently. It must be in orbit around a moon to route the autopilot.
     Use the main lever at the front desk to enter orbit.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -1989,38 +2665,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #4
+
 DisplayText:
 
     The delivery vehicle cannot hold more than 12 items
     at a time. Please pick up your items when they land!
+
 ClearPreviousText?: False
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2028,37 +2720,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #5
+
 DisplayText:
 
     An error occured! Try again.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2066,38 +2774,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #6
+
 DisplayText:
 
     No data has been collected on this creature. 
     A scan is required.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2105,37 +2829,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #7
+
 DisplayText:
 
     To purchase decorations, the ship cannot be landed.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2143,37 +2883,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #8
+
 DisplayText:
 
     The autopilot ship is already orbiting this moon!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2181,37 +2937,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #9
+
 DisplayText:
 
     [DATA CORRUPTED OR OVERWRITTEN]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2219,37 +2991,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #10
+
 DisplayText:
 
     [There was no action supplied with the word.]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2257,37 +3045,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #11
+
 DisplayText:
 
     [There was no object supplied with the action, or your word was typed incorrectly or does not exist.]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2295,37 +3099,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #12
+
 DisplayText:
 
     [This action was not compatible with this object.]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2333,6 +3153,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #13
+
 DisplayText:
 
     >MOONS
@@ -2351,37 +3172,52 @@ DisplayText:
     To see the list of other commands
     
     [numberOfItemsOnRoute]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2389,37 +3225,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #14
+
 DisplayText:
 
     This has already been unlocked for your ship!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2427,37 +3279,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #15
+
 DisplayText:
 
     The ship cannot be leaving or landing!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2465,37 +3333,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #16
+
 DisplayText:
 
     This item is not in stock!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2503,37 +3387,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #17
+
 DisplayText:
 
     Returned the item from storage!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2541,37 +3441,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #18
+
 DisplayText:
 
     This is locked from the demo version!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2579,37 +3495,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #19
+
 DisplayText:
 
     Entered broadcast code.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2617,37 +3549,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #20
+
 DisplayText:
 
     Switched radar to player.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2655,37 +3603,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #21
+
 DisplayText:
 
     Pinged radar booster.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2693,37 +3657,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #22
+
 DisplayText:
 
     Sent transmission.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2731,37 +3711,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #23
+
 DisplayText:
 
     Flashed radar booster.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2769,37 +3765,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #24
+
 DisplayText:
 
     You selected the Challenge Moon save file. You can't route to another moon during the challenge.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2807,33 +3819,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #25
+
 DisplayText:
 
     You have requested to order pro flashlights. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 25
 
 BuyItemIndex: 4
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -2843,10 +3868,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2854,33 +3882,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #26
+
 DisplayText:
 
     You have requested to order flashlights. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 15
 
 BuyItemIndex: 1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -2890,10 +3931,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2901,33 +3945,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #27
+
 DisplayText:
 
     You have requested to order lock-pickers. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 20
 
 BuyItemIndex: 3
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -2937,10 +3994,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2948,33 +4008,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #28
+
 DisplayText:
 
     You have requested to order Mapper tools. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 150
 
 BuyItemIndex: 2
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -2984,10 +4057,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -2995,33 +4071,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #29
+
 DisplayText:
 
     You have requested to order zap guns. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 400
 
 BuyItemIndex: 8
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3031,10 +4120,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3042,33 +4134,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #30
+
 DisplayText:
 
     You have requested to order shovels. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 30
 
 BuyItemIndex: 2
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3078,10 +4183,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3089,33 +4197,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #31
+
 DisplayText:
 
     You have requested to order boom boxes. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 80
 
 BuyItemIndex: 6
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3125,10 +4246,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3136,33 +4260,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #32
+
 DisplayText:
 
     You have requested to order walkie-talkies. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 12
 
 BuyItemIndex: 0
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3172,10 +4309,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3183,6 +4323,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #33
+
 DisplayText:
 
     You have requested to order the survival kit:
@@ -3194,27 +4335,39 @@ DisplayText:
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 138
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3224,10 +4377,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3235,33 +4391,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #34
+
 DisplayText:
 
     You have requested to order green suits. 
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 60
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Green suit"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3271,10 +4440,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3282,33 +4454,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #35
+
 DisplayText:
 
     You have requested to order hazard suits. 
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 90
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 2
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Hazard suit"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3318,10 +4503,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3329,33 +4517,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #36
+
 DisplayText:
 
     You have requested to order pajama suits. 
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 900
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 3
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Pajama suit"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3365,10 +4566,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3376,33 +4580,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #37
+
 DisplayText:
 
     You have requested to order cozy lights. 
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 140
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 4
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Cozy lights"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3412,10 +4629,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3423,33 +4643,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #38
+
 DisplayText:
 
     You have requested to order stun grenades. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 40
 
 BuyItemIndex: 5
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3459,10 +4692,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3470,33 +4706,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #39
+
 DisplayText:
 
     You have requested to order jetpacks. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 700
 
 BuyItemIndex: 9
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3506,10 +4755,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3517,33 +4769,46 @@ DisplayVideo: `null`
 LockedInDemo?: True
 
 ## Terminal Node: #40
+
 DisplayText:
 
     You have requested to order a television.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 130
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 6
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Television"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3553,10 +4818,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3564,33 +4832,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #41
+
 DisplayText:
 
     You have requested to order the teleporter.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 375
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 5
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Teleporter"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3600,10 +4881,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3611,33 +4895,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #42
+
 DisplayText:
 
     You have requested to order a shower.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 180
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 10
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Shower"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3647,10 +4944,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3658,33 +4958,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #43
+
 DisplayText:
 
     You have requested to order a toilet.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 150
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 9
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Toilet"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3694,10 +5007,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3705,33 +5021,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #44
+
 DisplayText:
 
     You have requested to order a record player.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 120
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 12
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Record player"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3741,10 +5070,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3752,33 +5084,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #45
+
 DisplayText:
 
     You have requested to order a table.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 70
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 13
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Table"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3788,10 +5133,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3799,33 +5147,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #46
+
 DisplayText:
 
     You have requested to order a romantic table.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 120
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 14
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Romantic table"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3835,10 +5196,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3846,30 +5210,43 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #47
+
 DisplayText:
 
     File cabinet
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: -1
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 8
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "File cabinet"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3879,10 +5256,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3890,30 +5270,43 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #48
+
 DisplayText:
 
     Cupboard
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: -1
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 7
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Cupboard"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3923,10 +5316,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3934,30 +5330,43 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #49
+
 DisplayText:
 
     Bunkbeds
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: -1
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 15
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Bunkbeds"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -3967,10 +5376,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -3978,33 +5390,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #50
+
 DisplayText:
 
     You have requested to order TZP-Inhalants. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 120
 
 BuyItemIndex: 7
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4014,10 +5439,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4025,33 +5453,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #51
+
 DisplayText:
 
     You have requested to order the loud horn ship upgrade.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 100
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 18
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Loud horn"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4061,10 +5502,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4072,33 +5516,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #52
+
 DisplayText:
 
     You have requested to order extension ladders. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 60
 
 BuyItemIndex: 10
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4108,10 +5565,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4119,33 +5579,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #53
+
 DisplayText:
 
     You have requested to order the inverse teleporter ship upgrade.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 425
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 19
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Inverse teleporter"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4155,10 +5628,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4166,33 +5642,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #54
+
 DisplayText:
 
     You have requested to order the jack-o-lantern.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 50
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 20
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Jack-o-Lantern"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4202,10 +5691,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4213,33 +5705,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #55
+
 DisplayText:
 
     You have requested to order radar boosters. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 60
 
 BuyItemIndex: 11
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4249,10 +5754,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4260,33 +5768,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #56
+
 DisplayText:
 
     You have requested to order the welcome mat, which will make everyone feel at home.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 40
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 21
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Welcome mat"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4296,10 +5817,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4307,33 +5831,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #57
+
 DisplayText:
 
     You have requested to order a goldfish, which comes with a complementary glass bowl.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 50
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 22
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Goldfish"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4343,10 +5880,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4354,33 +5894,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #58
+
 DisplayText:
 
     You have requested to order the plushie pajama man.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 100
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 23
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Plushie pajama man"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4390,10 +5943,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4401,33 +5957,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #59
+
 DisplayText:
 
     You have requested to order the signal translator.
     Total cost of item: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 255
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 17
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: "Signal translator"
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4437,10 +6006,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4448,33 +6020,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #60
+
 DisplayText:
 
     You have requested to order spray paint. Amount: [variableAmount]. 
     Total cost of items: [totalCost].
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 15
+
 TerminalEvent: ""
 
 IsConfirmationNode?: True
+
 ItemCost: 80
 
 BuyItemIndex: 12
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -4484,10 +6069,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #142](#terminal-node-142)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4495,38 +6083,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #61
+
 DisplayText:
 
     
     With an extra battery life and even brighter bulb, your colleagues can never leave you in the dark again!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4534,38 +6138,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #62
+
 DisplayText:
 
     
     The most advanced map device, using light-detection and ranging to give you an overhead view of your surroundings.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4573,38 +6193,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #63
+
 DisplayText:
 
     
     The most affordable light source. It's even waterproof!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4612,38 +6248,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #64
+
 DisplayText:
 
     
     For self-defense!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4651,40 +6303,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #65
+
 DisplayText:
 
     
     The most specialized self-protective equipment, capable of sending upwards of 80,000 volts! 
     
     To keep it targeted as long as possible, pull the gun side-to-side to counter the bend and fight against the pull of the electric beam. It can only stun for as long as you keep the current flowing.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4692,38 +6360,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #66
+
 DisplayText:
 
     
     Lock-pickers will unlock your limitless potential for efficiency on the job. Powered by proprietary AI software, they will get you access through any locked door.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4731,6 +6415,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #67
+
 DisplayText:
 
     41-Experimentation
@@ -4741,37 +6426,52 @@ DisplayText:
     HISTORY: Not discovered for quite some time due to its close orbit around gas giant Big Grin. However it appears to have been used in secret.
     
     FAUNA: Unknown
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4779,6 +6479,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #68
+
 DisplayText:
 
     220-Assurance
@@ -4789,37 +6490,52 @@ DisplayText:
     HISTORY: 220-Assurance is far younger than its counterpart. Discovered not long before 41-Experimentation.
     
     FAUNA: Unknown
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4827,6 +6543,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #69
+
 DisplayText:
 
     56-Vow
@@ -4837,37 +6554,52 @@ DisplayText:
     HISTORY: Vow appears to have been inhabited by several colonies across its continents, but there is now no sign of life, and they have become a mystery.
     
     FAUNA: Diverse, teeming with plant-life
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4875,42 +6607,58 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #70
+
 DisplayText:
 
     The Company is buying your goods at [companyBuyingPercent]. 
     
     Go here to drop off any valuable scrap you've collected while on the job. The rate of return updates hourly and fluctuates over the course of several days. 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4918,38 +6666,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #71
+
 DisplayText:
 
     
     Useful for keeping in touch! Hear other players when the wakie talkie is in your inventory. Must be in your hand and pressed down to transmit voice.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -4957,6 +6721,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #72
+
 DisplayText:
 
     SNARE FLEA
@@ -4967,34 +6732,49 @@ DisplayText:
     A very large arthropod of the class chilopoda. Its body produces a silk which it primarily uses to propel itself to places where it is concealed. Its exoskeleton is somewhat fragile, and they can die from long falls. The snare flea does not produce venom, nor does it have a strong bite. It makes up for this weakness with its ability to tighten itself around large prey to suffocate.
     
     The snare flea thrives in dark, warm areas. It cannot survive low temperatures and generally avoids open air and sunlight take the rats outside or just beat the hell otu of them! i think their insides could make a good milkshake,,
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 0
+
 StoryLogFileID: -1
+
 CreatureName: "Snare fleas"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: SnareBugVideo0001-0100
@@ -5002,6 +6782,7 @@ DisplayVideo: SnareBugVideo0001-0100
 LockedInDemo?: False
 
 ## Terminal Node: #73
+
 DisplayText:
 
     Bracken -- AKA flower man!
@@ -5012,37 +6793,52 @@ DisplayText:
     There is debate on the genus to which the Bracken belongs. It is a bipedal vertebrate with skin the color and texture of a red beat. The name was coined for what appear to be leaves protruding from its upper spine. The purpose of these is believed to be for intimidation, however not much is known about the specifics of bracken behaviour due to its illusiveness and low population.
     
     We know a little from accounts by wildlife experts who have encountered it. is a lone hunter with high intelligence. Its behavior can seem aloof; it exhibits high aggression even when unprovoked, yet it quickly backs off when confronted. However, brackens are known to up their hostility when cornered or simply watched for a long time. For this reason it's recommended to keep an eye on it but not to stare it down. No specimens have been collected dead or alive. It's theorized that upon death their bodies undergo a rapid decomposition process which is unique from other large animals.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 1
+
 StoryLogFileID: -1
+
 CreatureName: "Brackens"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: BrackenVideo0001-0100
@@ -5050,6 +6846,7 @@ DisplayVideo: BrackenVideo0001-0100
 LockedInDemo?: False
 
 ## Terminal Node: #74
+
 DisplayText:
 
     HOARDING BUG
@@ -5060,34 +6857,49 @@ DisplayText:
     Hoarding bugs (of the order Hymenoptera) are large, social insects. While often found living alone, they have been found to share their nests with members of their own species. They measure a height of 3 feet on average, with bulbous bodies. The thinness of their fluid and blood and the material of their carapaces contributes to their low weight, making them capable of flight with their membranous wings. It also makes their bodies somewhat transparent.
     
     Hoarding bugs were given their name due to their territorial nature. Once they have chosen a place as their nest, they will seek to adorn it with any object they can find and will protect these objects as a part of the nest. Hoarding bugs are not so dangerous alone as they are in large hives. However, if left alone, hoarding bugs are surprisingly neutral and pose little danger. wWe love the stupid cuddle bugs.!! - tjhis has been a note from the indomitable Sigurd
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 4
+
 StoryLogFileID: -1
+
 CreatureName: "Hoarding bugs"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: HoardingBugVideo0001-0100
@@ -5095,6 +6907,7 @@ DisplayVideo: HoardingBugVideo0001-0100
 LockedInDemo?: False
 
 ## Terminal Node: #75
+
 DisplayText:
 
     HYGRODERE
@@ -5105,34 +6918,49 @@ DisplayText:
     A eukaryotic organism classified within the paraphyletic group Prostita. With the incredible speed of reproduction, these small organisms can multiply to millions. Hygrodere rarely split apart, instead choosing to form large, viscous masses which can take up large amounts of space and become a danger to deal with, requiring large tools or lures to relocate.
     
     Hygrodere are drawn to heat and oxygen and can detect it from seemingly anywhere. There's almost nothing organic they can't convert to their own body mass. Nothing has been found to poison them. Constantly replacing themselves, they can persist for hundreds of thousands of years. If you ever find yourself cornered, find a tall object to stand on top of; hygroderes have trouble climbing. they have great taste! cause I made a friend with one somehow,, and we think it was my music. 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 5
+
 StoryLogFileID: -1
+
 CreatureName: "Hygroderes"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: HygrodereVideo0001-0100
@@ -5140,6 +6968,7 @@ DisplayVideo: HygrodereVideo0001-0100
 LockedInDemo?: False
 
 ## Terminal Node: #76
+
 DisplayText:
 
     Thumpers
@@ -5152,34 +6981,49 @@ DisplayText:
     They are relentless hunters, typically at the top of their food chain. Their main weaknesses are their intelligence and complete lack of hearing. If you come across a thumper, your best means of survival are leaving its line of sight, as it is slower around corners and can't easily track prey.
     
     Due to the fast and volatile evolution of this species, some theorize that thumpers are one of the examples of an increased number of mutations causing higher levels of speciation in planets around the Thistle Nebula.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 2
+
 StoryLogFileID: -1
+
 CreatureName: "Thumpers"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: ThumperVideo
@@ -5187,6 +7031,7 @@ DisplayVideo: ThumperVideo
 LockedInDemo?: False
 
 ## Terminal Node: #77
+
 DisplayText:
 
     EYELESS DOG
@@ -5195,34 +7040,49 @@ DisplayText:
     A large mammal of the class Saeptivus. They are social, hunting in very large packs. They have also been called "breathing lions" for their recognizable sound and large mouths. They are endurance hunters and attempt to make up for their lack of sight with their sense of hearing. It's a popular myth that they often mistake the sounds of their own kind for prey, entering fights within their own packs.
     
     Their behaviour is unique from other pack animals in their tendency to spread out far to cover distance. When an eyeless dog has found prey, it roars to alert others in the near vicinity, who will also sound the alarm, sometimes resulting in a kind of chain reaction. Eyeless dogs can be dangerous in swarms. However, they are characteristically clumsy, taking guesses at their prey's exact location which are often incorrect. 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 3
+
 StoryLogFileID: -1
+
 CreatureName: "Eyeless dogs"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: MouthDogVideo0001-0100
@@ -5230,6 +7090,7 @@ DisplayVideo: MouthDogVideo0001-0100
 LockedInDemo?: False
 
 ## Terminal Node: #78
+
 DisplayText:
 
     
@@ -5238,34 +7099,49 @@ DisplayText:
     * Flashlights  x4 
     * Walkie-talkies x4
     * Shovel  x2
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5273,38 +7149,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #79
+
 DisplayText:
 
     
     These jamming tunes are great for a morale boost on your crew!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5312,6 +7204,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #80
+
 DisplayText:
 
     61-March
@@ -5322,37 +7215,52 @@ DisplayText:
     HISTORY: This moon is overlooked due to its twin moon, Vow. 
     
     FAUNA: Unknown
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5360,6 +7268,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #81
+
 DisplayText:
 
     85-Rend
@@ -5370,37 +7279,52 @@ DisplayText:
     HISTORY: Several famous travelers went missing here, giving it some reputation. Their bodies are unlikely to be found due to the planet's conditions.
     
     FAUNA: It's highly unlikely for complex life to exist here.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5408,6 +7332,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #82
+
 DisplayText:
 
     7-Dine
@@ -5418,37 +7343,52 @@ DisplayText:
     HISTORY: Several famous travelers went missing here, giving it some reputation. Their bodies are unlikely to be found due to the planet's conditions.
     
     FAUNA: It's highly unlikely for complex life to exist here.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5456,6 +7396,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #83
+
 DisplayText:
 
     21-Offense
@@ -5466,37 +7407,52 @@ DisplayText:
     HISTORY: 21-Offense is categorized as an asteroid moon and seems to have not existed on its own for more than several hundred years. The industrial artifacts here have suffered damage; it's believed they were built long before 21-Offense was splintered off.
     
     FAUNA: A competitive and toughened ecosystem supports aggressive lifeforms. Travellers to 21-Offense should know it's not for the faint of heart.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5504,38 +7460,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #84
+
 DisplayText:
 
     
     This device will get you around anywhere! Just use it responsibly!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5543,6 +7515,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #85
+
 DisplayText:
 
     FOREST KEEPER
@@ -5553,34 +7526,49 @@ DisplayText:
     Believed to share a common ancestor with rapax-folium, these behemoths are called Forest Keepers for the biomes they often inhabit. Their bodies bare markings on their front and back which mimic eyes--this trait is more helpful in their youth, as they are not agile. Their skin is a unique, dense material which hardens further throughout their lives; the large spikes and bumps across their bodies form as a result of aging.
     
     It's been said Forest Keepers exhibit a curious behavior similar to that of a human child the age of 5 or 6. They will eat anything they find fascinating. Forest Keepers don't actually need to put anything into their mouths, and it's theorized their main source of energy is a process similar to photosynthesis. Still, this makes them relatively dangerous to observe. They can see across long distances, so staying low and making use of cover is a must. They cannot enter small spaces and are not generally destructive, so stay close to shelter or overhangs.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 6
+
 StoryLogFileID: -1
+
 CreatureName: "Forest keepers"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: ForestKeeperVideo0001-0109
@@ -5588,6 +7576,7 @@ DisplayVideo: ForestKeeperVideo0001-0109
 LockedInDemo?: False
 
 ## Terminal Node: #86
+
 DisplayText:
 
     LASSO
@@ -5595,34 +7584,49 @@ DisplayText:
     Sigurd's danger level: 30% but it kinda freaks me out
     
     Scientific name: 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 8
+
 StoryLogFileID: -1
+
 CreatureName: "Lasso man"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: SnareBugVideo0001-0100
@@ -5630,6 +7634,7 @@ DisplayVideo: SnareBugVideo0001-0100
 LockedInDemo?: False
 
 ## Terminal Node: #87
+
 DisplayText:
 
     EARTH LEVIATHAN
@@ -5640,34 +7645,49 @@ DisplayText:
     The reverently named Earth Leviathan, of the family Piscicolidae, is one of the largest invertibrates found around the Thistle Nebula. None have been captured, so not much is known of their biology. 
     
     They seem to behave as predators. It's speculated they can burrow as far as 40 meters underground, judging by the incredible excavations they can leave behind. They can detect even the slightest vibrations, and for this reason it's not recommended to stay still if they are nearby; that is a myth. Instead, if you hear them burrowing, retrace your steps.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 9
+
 StoryLogFileID: -1
+
 CreatureName: "Earth leviathans"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5675,37 +7695,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #88
+
 DisplayText:
 
     Press the button to activate the teleporter. It will teleport whoever is currently being monitored on the ship's radar. They will not be able to keep any of their held items through the teleport. It takes about ten seconds to recharge.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5713,6 +7749,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #89
+
 DisplayText:
 
     COIL-HEADS
@@ -5724,34 +7761,49 @@ DisplayText:
     
     Coil-heads' visual appearance is that of a bloody mannequin with its head connected by a spring. Their defining behavioral characteristic is to stop when being looked at. However, this does not appear to be a hard-and-fast rule. When they encounter a loud or bright light they sometimes appear to enter a long reset mode. 
     Just stare at htem or use a stun grenade! - Sigurd
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 7
+
 StoryLogFileID: -1
+
 CreatureName: "Coil-heads"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: CoilheadVideo
@@ -5759,39 +7811,55 @@ DisplayVideo: CoilheadVideo
 LockedInDemo?: False
 
 ## Terminal Node: #90
+
 DisplayText:
 
     
     This safe and legal medicine can be administered to see great benefits to your performance on the job! Your ability to move LONG distances while carrying HEFTY objects will be second to none! Warning: TZP gas may impact the brain with extended exposure. Follow instructions manual provided with the canister. 
     Don't forget to share!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5799,6 +7867,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #91
+
 DisplayText:
 
     Spore lizard
@@ -5809,37 +7878,52 @@ DisplayText:
     Colloquially named puffers or spore lizards, Lacerta-glomerorum (of the family Alligatoridae) is one of the largest and heaviest reptiles. Despite their large mouths, they are herbivores and do not have a strong bite. The bulbs on their tails are believed to secrete a chemical which attracts and accelerates the growth of the fungus species Lycoperdon perlatum, which it can then shake to release spores as a defense mechanism--an unique example of a mutualistic symbiotic relationship.
     
     Spore lizards have a very timid temperment, tending to avoid all confrontation if possible. If their attempts at threat display are not effective, they may attempt to attack, so it's not recommended to corner or chase one. There are historical records that spore lizards were at least partially domesticated hundreds of years ago, however this effort was set aside by an initiative to harvest their tails for their medicinal properties.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 11
+
 StoryLogFileID: -1
+
 CreatureName: "Spore lizards"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5847,6 +7931,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #92
+
 DisplayText:
 
     Bunker spiders
@@ -5859,34 +7944,49 @@ DisplayText:
     Bunker spiders produce silk and lay it around their chosen nesting area, then wait for it to be tripped on. They can be seen waiting on walls, often over doorways where prey could enter unaware. If you find a bunker spider 'unprepared' it may freeze as a defensive reaction. In this case they are best left alone. If a bunker spider reacts aggressively, it is best not to fight with ordinary tools. They use their webs to make up for their rather slow movement, so take note of your surroundings. Their webs can be broken easily with any blunt tool.
     
     Bunker spiders can pose a great danger to humans and urban explorers especially, without a great benefit to their ecosystems. A resulting kill-on-sight order has been informally agreed upon between many states home to the Bunker spider, and it is currently approved by the ITDA as of 10/6/1965.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 12
+
 StoryLogFileID: -1
+
 CreatureName: "Bunker spiders"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: BunkerSpiderVideo0001-0109 1
@@ -5894,6 +7994,7 @@ DisplayVideo: BunkerSpiderVideo0001-0109 1
 LockedInDemo?: False
 
 ## Terminal Node: #93
+
 DisplayText:
 
     JESTER
@@ -5902,34 +8003,49 @@ DisplayText:
     
     Scientific name: INSANEUS THINGUS
     THERE'S NO FREAKING SCIENTIFIC RECORD! good luck, you know as much as us. we just call it the jester
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 10
+
 StoryLogFileID: -1
+
 CreatureName: "Jesters"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: JesterVideo0001-0109
@@ -5937,6 +8053,7 @@ DisplayVideo: JesterVideo0001-0109
 LockedInDemo?: False
 
 ## Terminal Node: #94
+
 DisplayText:
 
     Manticoils
@@ -5947,34 +8064,49 @@ DisplayText:
     Mantacoils are a passerine bird of the family corvidae. Their bodies are quite large compared to their early descendants, and their wingspan ranges from 55 to 64 inches. Their most defining characteristic is their set of four wings. Their back wings are mostly used to stabilize when at low speed, while their front two wings create the majority of lift. Their round bodies are a striking yellow but with black outlines or stripes along their primary (rear) feathers.
     
     Manticoils mostly feed on small insects but can also feed on small rodents. They are highly intelligent and social. They pose little threat and have a generally passive temperament towards humans, although they are capable of transmitting Rabies, Rubenchloria, and Pitt Virus.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 13
+
 StoryLogFileID: -1
+
 CreatureName: "Manticoils"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -5982,6 +8114,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #95
+
 DisplayText:
 
     Circuit Bees
@@ -5996,34 +8129,49 @@ DisplayText:
     
     
     It's BEEst to keep your distance. If a red bee hive is stolen, red bee swarms will enter an onslaught in which they attack any living creature. This destructive BEEhavior will last until they have located the hive or completely exhausted themselves, which can take hours to days. They have BEEn known to leave BEEhind fields of bodies of small rodents, insects and even some larger mammals, and in rare cases they can start fires. Their strong BEEnefits and drawbacks to their ecosystems are highly debated. BEEbated !! - the indomitable Sigurd
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 14
+
 StoryLogFileID: -1
+
 CreatureName: "Circuit bees"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6031,6 +8179,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #96
+
 DisplayText:
 
     Roaming Locusts
@@ -6040,34 +8189,49 @@ DisplayText:
     Scientific name: Anacridium-vega
     
     Known as roaming locusts, this is a species of grasshopper. Unlike some species which are more prone to jump or fly, roaming locusts are almost never grounded and stay close together even when in smaller numbers. They will quickly disperse when a predator disrupts them but are highly attracted to light.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 15
+
 StoryLogFileID: -1
+
 CreatureName: "Roaming locusts"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6075,38 +8239,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #97
+
 DisplayText:
 
     
     Used to communicate with any crew member from any distance, no walkie talkie required! The horn can be heard from anywhere. But what does it mean? That's up to you!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6114,6 +8294,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #98
+
 DisplayText:
 
     8-Titan
@@ -6124,37 +8305,52 @@ DisplayText:
     HISTORY: It looks like this moon was mined for resources. It's easy to get lost within the giant industrial complex. There are many entrances to it littered about the landscape.
     
     FAUNA: Dangerous entities have been rumored to take residence in the vast network of tunnels.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6162,38 +8358,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #99
+
 DisplayText:
 
     
     The extension ladder can reach as high as nine meters! Use it to scale any cliff and reach for the stars! To save batteries the extension ladder automatically stores itself after 18 seconds.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6201,6 +8413,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #100
+
 DisplayText:
 
     
@@ -6209,34 +8422,49 @@ DisplayText:
     Use the "SWITCH" command before the radar booster's name to view it on the main monitor. It must be activated.
     
     Use the "PING" command before the radar booster's name to play a special sound from the device.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6244,6 +8472,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #101
+
 DisplayText:
 
     Baboon hawk
@@ -6254,34 +8483,49 @@ DisplayText:
     Baboon hawks are a primate of the family Cercopithecidae. They are hunchbacked but can stand up to 8 feet on average. Their heads are boney, with bird-like beaks and long horns, which they use like skewers to gore and feed on prey. Their horns are made of keratin instead of bone like the rest of their skulls, and they do not contain nerves or blood vessels. As a result baboon hawks can often break their horns from the force they apply, then fully regrow them within the same season. Baboon hawks partly owe their name to their large wings, which could never carry their large body mass and are used instead for intimidation and protection from the elements.
     
     The largest baboon hawk troop ever observed was made up of 18 baboon hawks. They are loosely territorial, and much of their behavior is motivated by intimidation and display. They can become collectors, using any flashy or colorful object to mark their territory. As lone scouts, baboon hawks are generally timid and won't attack unless provoked. In greater numbers they can become a great danger; sticking close to others and making yourself seem dangerous are the best ways to prevent an attack. They prefer smaller mammals, but when desperate they are known to use their numbers to attack animals even twice their size, such as eyeless dogs. THEY TOOK M Y PICKLES
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 16
+
 StoryLogFileID: -1
+
 CreatureName: "Baboon hawks"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: BaboonHawkVideo0001-0109
@@ -6289,40 +8533,56 @@ DisplayVideo: BaboonHawkVideo0001-0109
 LockedInDemo?: False
 
 ## Terminal Node: #102
+
 DisplayText:
 
     
     The inverse teleporter is a modified teleporter which will teleport you to a random position outside the ship. All your items will be dropped at the teleporter before transport. The inverse teleporter can be used by everyone at once and has a 3.5 minute cooldown.
     
     DISCLAIMER: The inverse teleporter can only transport you out, not in, and you may become trapped. The Company is not responsible for injury or replacement of heads and limbs induced by quantum entanglement and bad luck.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6330,38 +8590,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #103
+
 DisplayText:
 
     
     Use the "transmit" command to broadcast a text message to all crewmates. The message must be under 10 letters. 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6369,6 +8645,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #104
+
 DisplayText:
 
     Nutcracker
@@ -6376,34 +8653,49 @@ DisplayText:
     The guardians of the house.
     
     They watch with one tireless eye, which only senses movement; It remembers the last creature it noticed whether they are moving or not.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: 17
+
 StoryLogFileID: -1
+
 CreatureName: "Nutcrackers"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 2
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: True
+
 PersistentImage?: False
 
 DisplayVideo: NutcrackerVideo0001-0109
@@ -6411,6 +8703,7 @@ DisplayVideo: NutcrackerVideo0001-0109
 LockedInDemo?: False
 
 ## Terminal Node: #105
+
 DisplayText:
 
     Welcome to the Company store. 
@@ -6429,37 +8722,52 @@ DisplayText:
     The selection of ship decor rotates per-quota. Be sure to check back next week:
     ------------------------------
     [unlockablesSelectionList]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6467,6 +8775,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #106
+
 DisplayText:
 
     BESTIARY
@@ -6475,37 +8784,52 @@ DisplayText:
     ---------------------------------
     
     [currentScannedEnemiesList]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6513,40 +8837,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #107
+
 DisplayText:
 
     Reset credits to 200. 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: "cheat_ResetCredits"
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6554,6 +8894,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #108
+
 DisplayText:
 
     Date: August 22, 1968
@@ -6562,34 +8903,49 @@ DisplayText:
     
     If you are reading it in the future, you are probably from a nother crew. The turnover rate here is enormous, maybe cause this job sucks and every one turns over dead! Maybe I can give some help when I have some expirience. End log.
     Oh, our names are: Sigurd (me), Richard, Desmond, Jess.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 0
+
 CreatureName: "First Log - Aug 22"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6597,6 +8953,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #109
+
 DisplayText:
 
     gosh, this suit is squeezing me like I'm a gosh damn mummy! im a grown man, give it some space between the legs! it's killing me i'm dying! i hope youre happy dad, I FINALLY got a job. screw you! Everyone here smells. especially Rich. I'm going to throw him in the lake. I don't care what it's made of. i love being on camera duty. oh
@@ -6604,34 +8961,49 @@ DisplayText:
     
     
     today we found a couple frying pans and a big nail. Worth almost nothing. what is the company even using it for
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 1
+
 CreatureName: "Smells here! - Aug 24"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6639,6 +9011,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #110
+
 DisplayText:
 
     we got in the "swing of things" the past few days. thats what Rich keeps saying, he smells like a rancid tuna can. worst summer camp I've ever been o n. Date is August 27, 1968. 
@@ -6646,34 +9019,49 @@ DisplayText:
     
     we sold some goods to the company today at 70% value. i got m y nerves chilled listening to the fuckng PYSCHOTIC soundfs behind the counter. No one else gave any. ?? 
     Cant ignore that! my flashlight didn't even go back there, the beam just went dark.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 2
+
 CreatureName: "Swing of things - Aug 27"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6681,40 +9069,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #111
+
 DisplayText:
 
     date is August 31, 1968. i got camera duty again, i hate walking on this moon anyway. ahah jokes on them it, just started raining!!! Im just sitting. cant sleep on these tiny beds for ants
     
     
     Ive been thinking a lot. i think this job is shady. If youre reading this you probbably got here the same as me. the pay is good, the contract only lasts a season. they ran you through their "assessmennt exam" on the phone with a weird voice. you signed the contract on the shuttle with the rest of your crew. But the whole time you didnt talk to anyone. The shuttle was autopiloted, I think the voice on the phone was fake.  I;ve had the wrost dreams, I think   I just want to go back home. but im not gonna crawl home, crying and scratching on dad's front door. thats not his son. thats not Sigurd!
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 3
+
 CreatureName: "Shady - Aug 31"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6722,40 +9126,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #112
+
 DisplayText:
 
     i got woken up early this morning because we were going to the company building to sell our useless garbage. The rate was 120% which Desmond says is rare and he didnt want to miss it, hes been watching it like the stupid stocks. 
     
     it still sucks here, Rich still smells like a piece of hsit .i can barely sleep. i heard the wrorst sound behind the wall of the company building, it sounded like crying red faces all churned up and swept away by concrete, like the pestle and bowl my mom crushes up her seeds and spices in. i still hear it. Its a nightmare. no one else heard it. they dont know what to do. Jess thinks i;m "home sick," no im sick of this cheap suit
     date: Septermber 4, 1968
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 4
+
 CreatureName: "Sound behind the wall - Sep 4"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6763,40 +9183,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #113
+
 DisplayText:
 
     we left behiind Rich. we just had one room to check and then we could be done for the day, i couldnt get the door open. And then i looked and Rich wasnt there. It was the fucking wrinkly skin flower head man that walks on two legs! it turned his neck. i heard the crack but he wasnt there. I wanted to find Rich even if he was dead, but they are cowards! their faces are blank like idiots, theres nothing moving in their stupid skulls, all they wanted to do is leave. they were going to leave me too. we all hated Rich but we didnt want this. this isnt worth it, its just not worth it. we got a pair of scissors, a box full of stamps and a bundle of cords to sell for nothing. its not wort h it, what does the company even want it for?
     
     
     the date we last saw Rich is September 7, 1968
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 5
+
 CreatureName: "Goodbye - Sep 7"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6804,6 +9240,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #114
+
 DisplayText:
 
     date: September 13, 1968
@@ -6812,34 +9249,49 @@ DisplayText:
     
     
     I learned you can hear the screams all the time in the walkie talkie when you;re  at the wall of the Company building. they didnt believe me, well now they do. It sounds just like when i heard it a couple weeks ago. They want to quit. I said I'm not a coward. I just got this job
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 6
+
 CreatureName: "Screams - Sep 13"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6847,6 +9299,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #115
+
 DisplayText:
 
     I talked ot a voice on the walkie talkie, it was like a part of the screams. he told me the Golden planet actually existed, its not a legend. and he told me it didn't just hit a meteor. He said the planet was swallowed up by the "beast", and they were in its body being diggested. i asked what the beast is, and he said he didnt know!. he said it ate the planet and they forgot everything. 
@@ -6854,34 +9307,49 @@ DisplayText:
     i couldnt get him to stop talking. but i said he was on the other side of a big wall and i could get him out. i said he was inside the building. and thats when he started freaking out/. i couldn't make out a word, I think he said something about "spitting out the rinds" So i just turned it off. what a wack
     
     Jess says the golden planet is just a story. I said  I KNOW, I'm not an idiot. Well she said i should quit, and she quits if i do. so she s staying
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 7
+
 CreatureName: "Golden planet - Aug ??"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6889,6 +9357,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #116
+
 DisplayText:
 
     date: September 18, 1968
@@ -6896,34 +9365,49 @@ DisplayText:
     
     
     i was talking about how the voice on the phone sounded fake. Then Desmond got this weird idea. he's the wizard and all so he thinks theres a way to use the phone call i made to the company number to find ourt where the voice comes from. i dont know why hed want to do that but he seems serious. He;s been using the terminal a lot.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 8
+
 CreatureName: "Idea - Sep 18"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6931,6 +9415,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #117
+
 DisplayText:
 
     September 27, 1968
@@ -6938,34 +9423,49 @@ DisplayText:
     ok so desmond "traced the call" and found out theres a group of people somewhere else that pretends to call us from the company building. they are across the whole solar system !! why would they be so far away.
     
     Desmond says he doesnt know, but i think. What if there really is a big monster in the company building like the voice told me on the wlakie talkie? They trapped it, and we feed it to keep it tame. i just wanted a stupid job!!!!! 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 9
+
 CreatureName: "Nonsense - Sep 27"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -6973,6 +9473,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #118
+
 DisplayText:
 
     September 30, 1968
@@ -6981,34 +9482,49 @@ DisplayText:
     
     he says we would have to get our own private flight to go to the cordinates, and who knows what would actually be there. So, what if its nothing? 
     i started wondering how i cant remember how we really got here, no I just remember little things like the shuttle flight to the building where we signed our contracts. But i dont remember getting on the shuttle, i dont even remember saying bye to dad. in my dreams it feels like the company isnt trapped in there at all, its just hiding. I dont know if im going home
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 10
+
 CreatureName: "Hiding - Sep 30"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7016,37 +9532,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #119
+
 DisplayText:
 
     Desmond. October 15, 1968. I am encrypting these logs to keep them hidden, as I fear the system will be wiped if they are found. It's all a guise. We're supposed to think it's all just a transaction, but our real job is keeping an incredible terror fed. How long until its fullness ends and its hunger is insatiable? God knows, maybe it has to do with all these desolate moons. Whoever reads this, I am sorry to burden you with this. Please have a good day and night--as what else is there for us to do? 
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 12
+
 CreatureName: "Desmond - Oct 15"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7054,37 +9586,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #120
+
 DisplayText:
 
     Toggling radar cam
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: mapTexture
+
 LoadImageSlowly?: True
+
 PersistentImage?: True
 
 DisplayVideo: `null`
@@ -7092,6 +9640,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #121
+
 DisplayText:
 
     date : October 1st, 1968
@@ -7101,34 +9650,49 @@ DisplayText:
     i know im not the wizard but I guess im the computer guy again today. every time i go outside on vow they say i get pale like im dead, so they put me on screen duty. they think i got soft or something. whatever, lucas is the scared one. good luck keeping him from losing his freaking mind. I could stroll out at night like its my back yard!! Its just that i saw Rich on a hill. he was over on the orther side of the river. but that was three days ago. Im not scared, its just getting cold outside. i think they jus twant me to have screen duty every day and they all got an excuse
     
     i miss dad. i hope he isnt staying on titan. people are saying its not going to look the same in two years. jess told us they a re about to go to war and everyone is just waiting for it. every time we go to sell, the company building is shaking like theres a loud furnace inside. they are too afraid to quit. we can barely sleep to meet the quota, and it gets worse every time. god, i feel like im being squeezed through a needle. i wish we could go back. it was better working for dad even when i got nothing, just daily alowance. i liked when he would drive us out of town to see the waterfall and we walked up those old wooden stairs. i just  wanted a real job
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: 11
+
 CreatureName: "Real Job - Oct 1"
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7136,6 +9700,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #122
+
 DisplayText:
 
     Welcome to the exomoons catalogue.
@@ -7155,37 +9720,52 @@ DisplayText:
     * Rend [planetTime]
     * Dine [planetTime]
     * Titan [planetTime]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7193,33 +9773,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #123
+
 DisplayText:
 
     The cost to route to 41-Experimentation is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 0
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7229,10 +9822,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #176](#terminal-node-176)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7240,33 +9836,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #124
+
 DisplayText:
 
     The cost to route to 220-Assurance is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7276,10 +9885,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #177](#terminal-node-177)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7287,33 +9899,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #125
+
 DisplayText:
 
     The cost to route to 56-Vow is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 2
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7323,10 +9948,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #178](#terminal-node-178)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7334,6 +9962,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #126
+
 DisplayText:
 
     The Company is buying at [companyBuyingPercent]. 
@@ -7342,27 +9971,39 @@ DisplayText:
     
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7372,10 +10013,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #179](#terminal-node-179)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7383,33 +10027,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #127
+
 DisplayText:
 
     The cost to route to 61-March is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 4
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7419,10 +10076,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #180](#terminal-node-180)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7430,33 +10090,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #128
+
 DisplayText:
 
     The cost to route to 85-Rend is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 550
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 5
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7466,10 +10139,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #181](#terminal-node-181)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7477,33 +10153,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #129
+
 DisplayText:
 
     The cost to route to 7-Dine is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 600
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 6
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7513,10 +10202,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #182](#terminal-node-182)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7524,33 +10216,46 @@ DisplayVideo: `null`
 LockedInDemo?: True
 
 ## Terminal Node: #130
+
 DisplayText:
 
     The cost to route to 21-Offense is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 7
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7560,10 +10265,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #183](#terminal-node-183)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7571,33 +10279,46 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #131
+
 DisplayText:
 
     The cost to route to 8-Titan is [totalCost]. It is 
     currently [currentPlanetTime] on this moon.
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 700
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: 8
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: deny](#terminal-keyword-deny)
@@ -7607,10 +10328,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #184](#terminal-node-184)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7618,43 +10342,59 @@ DisplayVideo: `null`
 LockedInDemo?: True
 
 ## Terminal Node: #132
+
 DisplayText:
 
     This selection rotates per-quota. Be sure to check back next week!
     ____________________________
     
     [unlockablesSelectionList]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7662,43 +10402,59 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #133
+
 DisplayText:
 
     To order any item, use the word BUY.
     ____________________________
     
     * Teleporter      //    Price: $400
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7706,6 +10462,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #134
+
 DisplayText:
 
     SIGURD'S LOG ENTRIES
@@ -7714,37 +10471,52 @@ DisplayText:
     ---------------------------------
     
     [currentUnlockedLogsList]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7752,6 +10524,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #135
+
 DisplayText:
 
     While moving furniture with [B], you can press [X] to send it to storage. You can call it back from storage here.
@@ -7759,37 +10532,52 @@ DisplayText:
     These are the items in storage:
     
     [storedUnlockablesList]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7797,6 +10585,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #136
+
 DisplayText:
 
     Other commands:
@@ -7815,37 +10604,52 @@ DisplayText:
     
     >SCAN
     To scan for the number of items left on the current planet.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7853,40 +10657,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #137
+
 DisplayText:
 
     [scanForItems]
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7894,37 +10714,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #138
+
 DisplayText:
 
     Switching radar cam view.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: "switchCamera"
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7932,32 +10768,45 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #139
+
 DisplayText:
 
     Do you want to eject all crew members, including yourself? You must be in orbit around a moon. 
     
     Please CONFIRM or DENY.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: True
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -7967,10 +10816,13 @@ TerminalOptions (2):
   - Result: [Terminal Node: #186](#terminal-node-186)
 
 PlayClip: `null`
+
 PlaySyncedClip: 3
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -7978,41 +10830,57 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #140
+
 DisplayText:
 
     
     Please describe your role in a team dynamic: 
+
 ClearPreviousText?: False
+
 MaxCharactersToType: 12
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: True
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: [Terminal Node: #187](#terminal-node-187)
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8020,39 +10888,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #141
+
 DisplayText:
 
     Ordered [variableAmount] pro flashlights. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 25
 
 BuyItemIndex: 4
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8060,37 +10944,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #142
+
 DisplayText:
 
     Cancelled order.
+
 ClearPreviousText?: False
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8098,39 +10998,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #143
+
 DisplayText:
 
     Ordered [variableAmount] flashlights. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 15
 
 BuyItemIndex: 1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8138,39 +11054,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #144
+
 DisplayText:
 
     Ordered [variableAmount] lock-pickers. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 20
 
 BuyItemIndex: 3
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8178,39 +11110,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #145
+
 DisplayText:
 
     Ordered [variableAmount] mapper tools. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 150
 
 BuyItemIndex: 2
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8218,39 +11166,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #146
+
 DisplayText:
 
     Ordered [variableAmount] zap guns. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 400
 
 BuyItemIndex: 8
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8258,42 +11222,58 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #147
+
 DisplayText:
 
     Ordered [variableAmount] shovels. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 30
 
 BuyItemIndex: 2
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8301,39 +11281,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #148
+
 DisplayText:
 
     Ordered [variableAmount] boom boxes. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 80
 
 BuyItemIndex: 6
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8341,39 +11337,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #149
+
 DisplayText:
 
     Ordered [variableAmount] walkie-talkies. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 12
 
 BuyItemIndex: 0
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8381,39 +11393,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #150
+
 DisplayText:
 
     Ordered [variableAmount] survival kit. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 138
 
 BuyItemIndex: -7
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8421,37 +11449,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #151
+
 DisplayText:
 
     Ordered green suits! Your new balance is [playerCredits].
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 60
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 1
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8459,37 +11503,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #152
+
 DisplayText:
 
     Ordered hazard suits! Your new balance is [playerCredits].
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 90
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 2
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8497,37 +11557,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #153
+
 DisplayText:
 
     Ordered pajama suits! Your new balance is [playerCredits].
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 900
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 3
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8535,38 +11611,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #154
+
 DisplayText:
 
     Ordered cozy lights! Your new balance is [playerCredits].
     Use the light switch to enable cozy lights.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 140
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 4
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8574,39 +11666,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #155
+
 DisplayText:
 
     Ordered [variableAmount] stun grenades. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 40
 
 BuyItemIndex: 5
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8614,39 +11722,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #156
+
 DisplayText:
 
     Ordered [variableAmount] jetpack. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 700
 
 BuyItemIndex: 9
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8654,38 +11778,54 @@ DisplayVideo: `null`
 LockedInDemo?: True
 
 ## Terminal Node: #157
+
 DisplayText:
 
     Ordered the television! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 130
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 6
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8693,40 +11833,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #158
+
 DisplayText:
 
     Ordered the teleporter! Your new balance is [playerCredits].
     Press the button to activate the teleporter. It will teleport whoever is currently being monitored on the ship's radar. You will not be able to keep any of your held items through the teleport. It takes about 10 seconds to recharge.
     
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 375
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 5
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8734,38 +11890,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #159
+
 DisplayText:
 
     Ordered the shower! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 180
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 10
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8773,38 +11945,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #160
+
 DisplayText:
 
     Ordered the toilet! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 150
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 9
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8812,38 +12000,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #161
+
 DisplayText:
 
     Ordered the record player! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 120
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 12
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8851,38 +12055,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #162
+
 DisplayText:
 
     Ordered the table! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 70
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 13
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8890,38 +12110,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #163
+
 DisplayText:
 
     Ordered the romantic table! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 120
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 14
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8929,39 +12165,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #164
+
 DisplayText:
 
     Ordered [variableAmount] TZP-Inhalants. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 120
 
 BuyItemIndex: 7
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -8969,40 +12221,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #165
+
 DisplayText:
 
     Ordered the loud horn! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
     
     Hold the cord to activate the loud horn.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 100
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 18
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9010,39 +12278,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #166
+
 DisplayText:
 
     Ordered [variableAmount] extension ladders. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 60
 
 BuyItemIndex: 10
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9050,40 +12334,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #167
+
 DisplayText:
 
     Ordered the inverse teleporter! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
     
     Press the button and step onto the inverse teleporter while it activates.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 425
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 19
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9091,38 +12391,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #168
+
 DisplayText:
 
     Ordered the jack-o-lantern! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 50
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 20
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9130,39 +12446,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #169
+
 DisplayText:
 
     Ordered [variableAmount] radar boosters. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 60
 
 BuyItemIndex: 11
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9170,38 +12502,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #170
+
 DisplayText:
 
     Ordered the welcome mat! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 50
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 21
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9209,38 +12557,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #171
+
 DisplayText:
 
     Ordered the goldfish! Your new balance is [playerCredits].
     Press [B] to rearrange fish in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 50
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 22
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9248,38 +12612,54 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #172
+
 DisplayText:
 
     Ordered the plushie pajama man! Your new balance is [playerCredits].
     Press [B] to rearrange objects in your ship and [V] to confirm.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 100
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 23
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9287,6 +12667,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #173
+
 DisplayText:
 
     Ordered the signal translator! Your new balance is [playerCredits].
@@ -9294,34 +12675,49 @@ DisplayText:
     
     
     The signal transmitter can be activated with the "transmit" command followed by any message under 10 letters.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 255
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: 17
+
 BuyUnlockable?: True
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9329,39 +12725,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #174
+
 DisplayText:
 
     Ordered [variableAmount] spray paint cans. Your new balance is [playerCredits].
     
     Our contractors enjoy fast, free shipping while on the job! Any purchased items will arrive hourly at your approximate location.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 80
 
 BuyItemIndex: 12
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: 0
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9369,37 +12781,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #175
+
 DisplayText:
 
     You have cancelled the order.
+
 ClearPreviousText?: False
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9407,40 +12835,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #176
+
 DisplayText:
 
     Routing autopilot to 41-Experimentation. 
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 0
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9448,40 +12892,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #177
+
 DisplayText:
 
     Routing autopilot to 220-Assurance. 
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9489,40 +12949,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #178
+
 DisplayText:
 
     Routing autopilot to 56-Vow.
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 2
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9530,39 +13006,55 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #179
+
 DisplayText:
 
     Routing autopilot to the Company building.
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 3
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9570,40 +13062,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #180
+
 DisplayText:
 
     Routing autopilot to 61-March.
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 4
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9611,40 +13119,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #181
+
 DisplayText:
 
     Routing autopilot to 85-Rend.
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 550
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 5
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9652,40 +13176,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #182
+
 DisplayText:
 
     Routing autopilot to 7-Dine.
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 600
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 6
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9693,40 +13233,56 @@ DisplayVideo: `null`
 LockedInDemo?: True
 
 ## Terminal Node: #183
+
 DisplayText:
 
     Routing autopilot to 21-Offense. 
     Your new balance is [playerCredits].
     
     Please enjoy your flight.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 7
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9734,40 +13290,56 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #184
+
 DisplayText:
 
     Routing autopilot to 8-Titan.
     Your new balance is [playerCredits].
     
     Good luck.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 25
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 700
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: 8
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9775,30 +13347,43 @@ DisplayVideo: `null`
 LockedInDemo?: True
 
 ## Terminal Node: #185
+
 DisplayText:
 
     Ejecting crew now.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: "ejectPlayers"
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (2):
 - 0:
   - Noun: [Terminal Keyword: confirm](#terminal-keyword-confirm)
@@ -9808,10 +13393,13 @@ TerminalOptions (2):
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9819,37 +13407,53 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #186
+
 DisplayText:
 
     Cancelled ejection sequence.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: ""
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (0):
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
@@ -9857,6 +13461,7 @@ DisplayVideo: `null`
 LockedInDemo?: False
 
 ## Terminal Node: #187
+
 DisplayText:
 
      __      _____ _    ___ ___  __  __ ___ 
@@ -9869,37 +13474,52 @@ DisplayText:
     	Courtesy of the Company
     
     Type "Help" for a list of commands.
+
 ClearPreviousText?: True
+
 MaxCharactersToType: 35
+
 TerminalEvent: "setUpTerminal"
 
 IsConfirmationNode?: False
+
 ItemCost: 0
 
 BuyItemIndex: -1
+
 BuyRerouteToMoon: -1
 
 ShipUnlockableID: -1
+
 BuyUnlockable?: False
+
 ReturnFromStorage?: False
 
 DisplayPlanetInfo: -1
+
 CreatureFileID: -1
+
 StoryLogFileID: -1
+
 CreatureName: ""
 
 AcceptAnything?: False
+
 OverrideOptions?: False
+
 TerminalOptions (1):
 - 0:
   - Noun: `null`
   - Result: `null`
 
 PlayClip: `null`
+
 PlaySyncedClip: -1
 
 DisplayTexture: `null`
+
 LoadImageSlowly?: False
+
 PersistentImage?: False
 
 DisplayVideo: `null`
